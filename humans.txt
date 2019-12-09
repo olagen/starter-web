@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    Ola Cohen ocohen@gmail.com
 
     <name> -- <role> -- <twitter>
 
