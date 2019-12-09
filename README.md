@@ -20,4 +20,4 @@ Please fork his repository and then issue Pull Request for review
 
 ### Copyrihgt
 
-2019 Ola.Cohen
+2019 Ola.Cohen. All reights reserved.
